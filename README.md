@@ -16,11 +16,9 @@ I use GitHub to **document my journey, share projects, and track my growth** as 
 ## 🗂️ What This Repository Is For  
 
 This repository is my **AI & ML playground**:  
-- 🧠 A place to **experiment** with new ideas and concepts  
-- 📖 A space to **learn and document progress**  
-- 🛠️ A starting point for **projects and reusable templates**  
+🧠 A place to **experiment** with new ideas and concepts  
+📖 A space to **learn and document progress**  
+🛠️ A starting point for **projects and reusable templates**  
 
----
 
-## 🏗️ Structure  
 
