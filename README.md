@@ -23,4 +23,23 @@ This repository is my **AI & ML playground**:
 🛠️ A starting point for **projects and reusable templates**  
 
 
+## 🛠️ Technologies I Use  
+
+<p align="center">
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <!-- NumPy -->
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <!-- Pandas -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <!-- Matplotlib -->
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <!-- Jupyter -->
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
+
+---
+
+
+
 
