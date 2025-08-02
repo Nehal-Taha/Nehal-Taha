@@ -35,7 +35,7 @@ This repository is my **AI & ML playground**:
   <!-- Matplotlib -->
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
   
-  <img src="https://img.shields.io/badge/seaborn?style=for-the-badge&logo=seaborn&logoColor=white" alt="seaborn" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
   <!-- Jupyter -->
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
