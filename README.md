@@ -7,7 +7,7 @@
 
 ## 👋 About Me  
 
-Hi, I'm **Nehal** — a **Computer Science student** passionate about understanding **Artificial Intelligence** and how it shapes the world around us.  
+Hi, I'm **Nehal** , a **Computer Science student** passionate about understanding **Artificial Intelligence** and how it shapes the world around us.  
 
 I use GitHub to **document my journey, share projects, and track my growth** as I explore AI and Machine Learning concepts step by step.  
 
