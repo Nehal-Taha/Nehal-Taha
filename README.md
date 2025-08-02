@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6F61FF&center=true&vCenter=true&width=500&lines=Welcome+to+My+AI+%26+ML+Space;    Exploring+Artificial+Intelligence;Learning+Day+by+Day" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6F61FF&center=true&vCenter=true&width=500&lines=Welcome+to+My+AI+%26+ML+Space;+Space+Exploring+Artificial+Intelligence;Learning+Day+by+Day" alt="Typing Animation" />
 </p>
 
 ---
