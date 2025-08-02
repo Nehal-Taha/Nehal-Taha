@@ -1,29 +1,25 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <a href="https://github.com/YourUsername">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6F61FF&center=true&vCenter=true&width=435&lines=Welcome+to+My+AI+%26+ML+Repository!;Exploring+Models+%7C+Data+%7C+Innovation" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6F61FF&center=true&vCenter=true&width=435&lines=AI+%26+ML+Projects;Experimentation+%7C+Learning+%7C+Innovation" alt="Typing Animation" />
 </p>
 
 ---
 
-## 🚀 About This Repository
+## Overview
 
-This repository serves as a **template** for my AI & Machine Learning projects.  
-It includes everything needed to kick-start experiments, model training, and deployment workflows.
-
----
-
-## 🧠 Features
-
-- **Organized structure** for datasets, notebooks, and source code  
-- **Pre-configured dependencies** for ML frameworks (TensorFlow, PyTorch, Scikit-learn)  
-- Ready-to-use **Jupyter notebooks** for quick prototyping  
-- Space for **experiment tracking and results visualization**  
-- Built with a focus on **clean, reusable code**  
+This repo is my **starting point for AI & Machine Learning projects**.  
+It’s where I keep experiments, reusable code, and everything I need to explore and learn — from basic models to deep learning architectures.
 
 ---
 
-## 📂 Project Structure
+## What’s Inside
 
+- Clean folder structure for **data, notebooks, and source code**  
+- Space to track experiments and results  
+- Basic setup for **common ML frameworks** (TensorFlow, PyTorch, Scikit-learn)  
+- Ready-to-use Jupyter notebooks for quick prototyping  
+
+---
+
+## Structure
 
